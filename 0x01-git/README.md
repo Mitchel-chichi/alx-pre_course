@@ -1,2 +1,2 @@
 Repo session
-Grit
+Collaboration
